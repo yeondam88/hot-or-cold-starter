@@ -109,25 +109,7 @@ $(document).ready(function(){
         }
     });
     
-    
-    //Count the number of attempts to guess random number
-    
-    
-    
-    
-    
-    //Check if the guess number is equal to random number
-    
-    
-    //Show the number that tried to guess to make equal number to random number
-    
-    
-    
-    
-    //Play a new game
-    
-    
-    
+
 	/*--- Display information modal box ---*/
   	$(".what").click(function(){
     	$(".overlay").fadeIn(1000);
